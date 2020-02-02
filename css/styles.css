@@ -1,0 +1,27 @@
+.navbar-brand {
+    width: 60px !important;
+}
+
+.navbar { 
+    background-color: lightblue !important;
+    border: solid;
+    height: 90px;
+}
+
+.navbar-nav {
+    background: lightslategrey;
+    border: solid;
+}
+
+h1 {
+    padding: 10px;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+.footer  {
+    height: 50px;
+    justify-content: center !important;
+}

@@ -1,0 +1,22 @@
+.about-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-grow: 1;
+    flex-basis: 0;
+}
+
+.me {
+    width: 15%;
+    margin: 20px;
+    border: solid;
+}
+
+p {
+    margin: 20px;
+    border: solid;
+    padding: 10px;
+    font-size: large;
+    justify-content: center;
+    background-color: rgb(198, 207, 216);
+}
