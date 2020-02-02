@@ -25,3 +25,8 @@ body {
     height: 50px;
     justify-content: center !important;
 }
+
+.footer-items {
+    border: none;
+    background: none;
+}
